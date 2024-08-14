@@ -13,6 +13,7 @@ I'm currently pursuing my B.Tech degree and working as a passionate Full-Stack M
 - **City Weather**: [View Project](https://github.com/Suhanii-13/CityWeather.git)  
   A weather app built with React and Express. Search for weather by city, view real-time updates, and manage favorite cities with status messages.
 
-
+## 🧑‍💻 Visitor Count
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Suhanii-13.Suhanii-13)
 
 Thanks for visiting! 😄
