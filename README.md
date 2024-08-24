@@ -11,11 +11,7 @@ I'm currently pursuing my B.Tech degree and working as a passionate Full-Stack M
   A frontend replica of Spotify's interface using HTML, CSS, and Flexbox. Focuses on responsive design and layout techniques.
 
 - **City Weather**: [View Project](https://github.com/Suhanii-13/CityWeather.git)  
-  A weather app built with React and Express. Search for weather by city, view real-time updates, and manage favorite cities with status messages.
-
-
-## You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
-![Visitor Count](https://profile-counter.glitch.me/{Suhanii-13}/count.svg)
+  A weather app built with React and Express. Search for weather by city, view real-time updates, and manage favorite cities with status messages
 
 
 Thanks for visiting! 😄
