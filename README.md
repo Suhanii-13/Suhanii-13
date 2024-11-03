@@ -19,10 +19,9 @@ I'm currently pursuing my B.Tech degree and working as a passionate Full-Stack M
 
 ## 🤝 Get in Touch!
 
-I'm always happy to connect and discuss ideas or collaborations! Feel free to reach out to me through any of the following:
+I'm always happy to connect and discuss ideas or collaborations! Feel free to reach out to me :
 
-- **Email:** [suhani@gmail.com](mailto:suhanishaikh.1304@gmail.com)
+- **Email:** [Open Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=suhanishaikh.1304@gmail.com)
 
-✨ Let’s make something amazing together! ✨
 
 Thanks for visiting! 😄
