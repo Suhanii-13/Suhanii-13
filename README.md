@@ -1,15 +1,32 @@
 # Hi there, I'm Suhani 👋
 
-I'm currently pursuing my B.Tech degree and working as a passionate Full-Stack MERN Developer. 🚀 I love building modern web applications and learning new technologies.
+I am a Full-Stack MERN Developer and currently persuing  B.Tech in Computer Science and Engineering  with a passion for building modern web applications and exploring emerging technologies. 🚀 I thrive on solving complex problems, learning continuously, and contributing to impactful projects.
 
 ## 👩‍💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhanii-13&layout=donut)
 
-## 🤝 Get in Touch!
 
-I'm always happy to connect and discuss ideas or collaborations! Feel free to reach out to me :
+## 🛠️ Technical Proficiencies  
+- **Languages**: JavaScript (ES6+), Python, Java, C++  
+- **Frameworks & Libraries**: React.js, Node.js, Express.js  
+- **Database**: MongoDB, MySQL  
+- **Tools & Platforms**: Git, Docker, Postman, VS Code
+
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,react,nodejs,git,github,postman" />
+  </a>
+</p>
+
+##
+
+
+[![current streak](https://streak-stats.demolab.com/?user=Suhanii-13&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+## 🤝 Let’s Collaborate!  
+I'm always eager to discuss new ideas, contribute to meaningful projects, or explore collaborative opportunities. Feel free to reach out:  
 
 - **Email:** [Open Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=suhanishaikh.1304@gmail.com)
-
-
-Thanks for visiting! 😄
