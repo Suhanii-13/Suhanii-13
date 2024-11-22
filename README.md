@@ -15,7 +15,7 @@ I am a Full-Stack MERN Developer and currently persuing  B.Tech in Computer Scie
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,react,nodejs,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,react,nodejs,git,github,postman,mongodb,java" />
   </a>
 </p>
 
@@ -23,6 +23,8 @@ I am a Full-Stack MERN Developer and currently persuing  B.Tech in Computer Scie
 
 
 [![current streak](https://streak-stats.demolab.com/?user=Suhanii-13&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
 
 
 
