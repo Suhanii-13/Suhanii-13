@@ -21,8 +21,8 @@ I am a Full-Stack MERN Developer and currently persuing  B.Tech in Computer Scie
 
 ##
 
+[![suhani's current streak](https://streak-stats.demolab.com/?user=Suhanii-13&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![current streak](https://streak-stats.demolab.com/?user=Suhanii-13&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
